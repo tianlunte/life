@@ -30,3 +30,11 @@ html, body {
 .common_main_element_title {
     margin: 0;
 }
+
+.common_main_element_list {
+
+}
+
+.common_main_element_list b {
+    color: #ff6666;
+}
