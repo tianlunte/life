@@ -2,13 +2,13 @@ html, body {
     margin: 0;
 }
 
-#home_main_box {
+#home_head_box {
     background: #323036;
     color: #ffffff;
     text-align: center;
     padding: 2rem 4rem;
 }
 
-#home_main_box h1 {
+#home_head_box h1 {
     margin: 0;
 }
