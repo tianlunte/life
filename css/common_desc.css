@@ -12,3 +12,21 @@ html, body {
 .common_head_box h1 {
     margin: 0;
 }
+
+.common_main_body {
+    width: 720px;
+    margin: 1rem auto;
+    border: solid 1px #323036;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.common_main_element {
+    padding: 1rem;
+    border: dotted 1px rgba(64, 64, 72, .75);
+    border-radius: 3px;
+}
+
+.common_main_element_title {
+    margin: 0;
+}
