@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+}
+
+.common_head_box {
+    background: #323036;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem 4rem;
+}
+
+.common_head_box h1 {
+    margin: 0;
+}
